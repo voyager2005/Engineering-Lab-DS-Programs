@@ -3,10 +3,6 @@ WAP to calculate the number of steps required to move n disks
 using the tower of hanoi concept
 */
 
-/**
-Find the first capital letter in a string using recursion
-*/
-
 #include <stdio.h>
 #include <math.h>
 
